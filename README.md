@@ -1,1 +1,1 @@
-Source code for king0fcode.github.io. Original repository located at https://github.com/nullworks/accgen-web.
+Source code for accgen.cathook.club. Original repository located at https://github.com/nullworks/accgen-web.

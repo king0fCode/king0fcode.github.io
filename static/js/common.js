@@ -479,12 +479,12 @@ function common_init() {
     $.ajax({
         url: "https://store.steampowered.com/join/"
     }).done(function () {}).fail(function (resp) {
-        // $("#addon_dl").show();
-        // $("#accgen_ui").hide();
-        // $("#generate_button").hide();
+        $("#addon_dl").show();
+        $("#accgen_ui").hide();
+        $("#generate_button").hide();
     });
     load_settings()
-    //   changeText();
+    changeText();
 }
 
 function history_pressed() {
